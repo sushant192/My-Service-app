@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_profile"
+        android:icon="@drawable/ic_baseline_account_circle_24"
+        android:title="Profile"/>
+    <item android:id="@+id/menu_homeservices"
+        android:icon="@drawable/ic_baseline_home_work_24"
+        android:title="Home services"/>
+    <item android:id="@+id/menu_transactions"
+        android:icon="@drawable/ic_baseline_calendar_today_24"
+        android:title="Transactions"/>
+    <item android:id="@+id/menu_feedback"
+        android:icon="@drawable/ic_baseline_feedback_24"
+        android:title="Feedback"/>
+    <item android:id="@+id/menu_policy"
+        android:icon="@drawable/ic_baseline_policy_24"
+        android:title="Privacy Policy"/>
+    <item android:id="@+id/menu_help"
+        android:icon="@drawable/ic_baseline_policy_24"
+        android:title="Help &amp; Support"/>
+    <item android:id="@+id/menu_refer"
+        android:icon="@drawable/ic_baseline_policy_24"
+        android:title="Refer &amp; Earn"/>
+    <item android:id="@+id/menu_logout"
+        android:icon="@drawable/ic_baseline_call_made_24"
+        android:title="Log Out"/>
+</menu>

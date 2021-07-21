@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".PartnerRegister"
+    android:background="#DFD3D3"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:orientation="horizontal"
+        android:layout_marginTop="30dp">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/logo"
+            android:layout_weight="1"
+            android:layout_marginLeft="60dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="MOTOHEAL"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            android:textColor="#000"
+            android:gravity="center_vertical"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@drawable/log"
+        android:layout_margin="25dp">
+
+        <TextView
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Gmail Id"
+            android:layout_marginLeft="15dp"
+            android:textColor="#000"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            android:layout_marginTop="20dp"/>
+
+        <EditText
+            android:padding="15dp"
+            android:layout_margin="10dp"
+            android:id="@+id/gid"
+            android:layout_width="match_parent"
+            android:layout_height="67dp"
+            android:hint="Example@gmail.com"
+            android:inputType="textPersonName"
+            android:background="@drawable/log"
+            android:textColorHint="#000"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Create Password"
+            android:layout_marginLeft="15dp"
+            android:textColor="#000"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            android:layout_marginTop="10dp"/>
+
+        <EditText
+            android:padding="15dp"
+            android:layout_margin="10dp"
+            android:id="@+id/password"
+            android:layout_width="match_parent"
+            android:layout_height="67dp"
+            android:hint="Your password"
+            android:inputType="textPassword"
+            android:background="@drawable/log"
+            android:textColorHint="#000"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Re-Password"
+            android:textColor="#000"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="10dp"/>
+
+        <EditText
+            android:padding="15dp"
+            android:layout_margin="10dp"
+            android:id="@+id/repassword"
+            android:layout_width="match_parent"
+            android:layout_height="67dp"
+            android:hint="Re-enter password"
+            android:inputType="textPassword"
+            android:background="@drawable/log"
+            android:textColorHint="#000"/>
+
+        <CheckBox
+            android:id="@+id/terms"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="I agree to all terms &amp; conditions"
+            android:textSize="10dp"
+            android:layout_marginLeft="70dp"
+            android:gravity="center"/>
+
+        <TextView
+            android:id="@+id/regnow"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="62dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginRight="62dp"
+            android:layout_marginBottom="20dp"
+            android:background="@drawable/blue_fill_rounded_color"
+            android:fontFamily="@font/poppins_medium"
+            android:gravity="center"
+            android:paddingTop="14dp"
+            android:paddingBottom="14dp"
+            android:text="Register Now"
+            android:textColor="#ffffff"
+            android:textSize="20dp" />
+
+
+
+    </LinearLayout>
+
+</LinearLayout>

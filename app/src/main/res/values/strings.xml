@@ -1,0 +1,126 @@
+<resources>
+    <string name="app_name">Moto Heal</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string-array name="numbers">
+        <item>Garage Owner</item>
+        <item>Plumber</item>
+        <item>Electrician</item>
+        <item>Painter</item>
+    </string-array>
+    <string-array name="Vehicles">
+        <item>Car</item>
+        <item>Bike</item>
+        <item>Bus</item>
+        <item>Truck</item>
+        <item>Bicycle</item>
+        <item>Scooter</item>
+        <item>E-rickshaw</item>
+        <item>Auto Rickshaw</item>
+    </string-array>
+    <string-array name="Models">
+        <item>Maruti suzuki</item>
+        <item>Tesla</item>
+        <item>BMW</item>
+        <item>Mercedes</item>
+        <item>Fiat</item>
+        <item>GMC</item>
+        <item>Mclaren</item>
+        <item>Volvo</item>
+        <item>Aston Martin</item>
+        <item>Chevrolet</item>
+        <item>Rolls Royce</item>
+        <item>Lexus</item>
+        <item>Bugatti</item>
+        <item>Ford</item>
+        <item>Jaguar</item>
+        <item>Jeep</item>
+        <item>Porsche</item>
+        <item>Ferrari</item>
+        <item>Lamborghini</item>
+        <item>TVS</item>
+        <item>Yamaha</item>
+        <item>Royal Enfield</item>
+        <item>Suzuki</item>
+        <item>Mahindra</item>
+        <item>Bajaj</item>
+        <item>Aprilla</item>
+        <item>Dukati</item>
+        <item>KTM</item>
+        <item>Harley Davidson</item>
+        <item>Scania</item>
+        <item>MAN</item>
+        <item>Tata Motors</item>
+        <item>Ahok Leyland</item>
+        <item>Mahindra &amp; Mahindra</item>
+        <item>Eicher Motors</item>
+        <item>Asian Motor Works</item>
+        <item>Hindustan Motors</item>
+        <item>Force Motors</item>
+        <item>SML ISUZU</item>
+        <item>Bharat Benz</item>
+        <item>Atul Autorickshaw</item>
+        <item>Tuk Tuk</item>
+        <item>Piaggio</item>
+        <item>Thukral</item>
+        <item>Kinetic</item>
+        <item>Baba e-rickshaw</item>
+        <item>Udan</item>
+        <item>Atlas</item>
+        <item>Avon</item>
+        <item>Bsa Lady bird</item>
+        <item>Honda</item>
+        <item>Hero</item>
+        <item>Hyundai</item>
+        <item>Tata</item>
+        <item>Renault</item>
+        <item>Audi</item>
+        <item>Others</item>
+    </string-array>
+
+    <string-array name="Gear">
+        <item>Gear</item>
+        <item>Non-Gear</item>
+    </string-array>
+
+    <string-array name="km">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+    </string-array>
+
+    <string-array name="Services">
+        <item>Digital meter Repair</item>
+        <item>Clutch</item>
+        <item>Break</item>
+        <item>Accelerator</item>
+        <item>AC</item>
+        <item>Lock</item>
+        <item>Engine</item>
+        <item>Puncture</item>
+        <item>Denting &amp; Painting</item>
+        <item>Lights</item>
+        <item>Battery</item>
+        <item>Washing</item>
+        <item>Periodic Servicing</item>
+    </string-array>
+
+    <string-array name="Service">
+        <item>Leakage</item>
+        <item>Replace</item>
+    </string-array>
+
+    <string-array name="Service1">
+        <item>Short-Circuit</item>
+        <item>Replace</item>
+    </string-array>
+
+    <string-array name="id">
+        <item>Aadhar Card</item>
+        <item>Pan Card</item>
+        <item>Voter Id</item>
+        <item>Passport</item>
+    </string-array>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "879153972999",
+    "project_id": "moto-heal-fd289",
+    "storage_bucket": "moto-heal-fd289.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879153972999:android:6db495ecac8965d410a7a2",
+        "android_client_info": {
+          "package_name": "com.example.motoheal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879153972999-ofa6f70kdi7d5t7q4fbpkp7hnlj11pm8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_xe9wcDId7Lq30qOXMA7znBvHTHVKaFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879153972999-ofa6f70kdi7d5t7q4fbpkp7hnlj11pm8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="180dp"
+    android:orientation="horizontal"
+    android:background="#3B52D3"
+    android:layout_marginBottom="50dp">
+
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/image24"
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:src="@drawable/avatar"
+            android:layout_marginTop="40dp"
+            android:layout_marginLeft="30dp"/>
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/name3"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:text="Sushant Bangera"
+                android:gravity="bottom"
+                android:textSize="25dp"
+                android:textStyle="bold"
+                android:textColor="#fff"
+                android:layout_marginLeft="20dp"/>
+            <TextView
+                android:id="@+id/number"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="PHCET"
+                android:gravity="top"
+                android:textSize="15dp"
+                android:textStyle="bold"
+                android:textColor="#fff"
+                android:paddingLeft="30dp"
+                android:paddingTop="10dp"/>
+    </LinearLayout>
+</LinearLayout>
+
+

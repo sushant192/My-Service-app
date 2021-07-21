@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/userlist"
+        android:icon="@drawable/ic_baseline_supervised_user_circle_24"
+        android:title="User List" />
+    <item
+        android:id="@+id/partnerlist"
+        android:icon="@drawable/ic_baseline_file_copy_24"
+        android:title="Partner List" />
+    <item
+        android:id="@+id/Feedbacks"
+        android:icon="@drawable/ic_baseline_rate_review_24"
+        android:title="Feedback List" />
+    <item
+        android:id="@+id/requests"
+        android:icon="@drawable/ic_baseline_rate_review_24"
+        android:title="Registration Requests" />
+</menu>

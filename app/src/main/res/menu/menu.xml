@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_profile"
+        android:icon="@drawable/ic_baseline_account_circle_24"
+        android:title="Profile"/>
+    <item android:id="@+id/menu_workers"
+        android:icon="@drawable/ic_baseline_group_24"
+        android:title="Co-Workers"/>
+    <item android:id="@+id/menu_wallet"
+        android:icon="@drawable/ic_baseline_account_box_24"
+        android:title="Wallet"/>
+    <item android:id="@+id/menu_pending"
+        android:icon="@drawable/ic_baseline_assignment_24"
+        android:title="Transactions"/>
+    <item android:id="@+id/menu_feedback"
+        android:icon="@drawable/ic_baseline_feedback_24"
+        android:title="Feedback"/>
+    <item android:id="@+id/terms"
+        android:icon="@drawable/ic_baseline_feedback_24"
+        android:title="Terms &amp; conditions"/>
+    <item android:id="@+id/help"
+        android:icon="@drawable/ic_baseline_feedback_24"
+        android:title="Help &amp; Support"/>
+    <item android:id="@+id/menu_logout"
+        android:icon="@drawable/ic_baseline_call_made_24"
+        android:title="Log Out"/>
+</menu>
